@@ -1,0 +1,8 @@
+name = "allan-rahill_benjamin_application"
+type = "javascript"
+account_id = "963dcb1363b09c75f03787f29a67f6b0"
+workers_dev = true
+
+[env.production]
+route = "benallanrahill.com/worker"
+zone_id = "d8fd53f0bf5f226182ec4f39aebaa789"
